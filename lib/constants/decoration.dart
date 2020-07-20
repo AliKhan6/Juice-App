@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'colors.dart';
 
-final BoxDecoration buttonsDecoration = BoxDecoration(
+final BoxDecoration redButtonDecoration = BoxDecoration(
   color: redColor,
   borderRadius: BorderRadius.circular(10.0),
 );
